@@ -54,7 +54,7 @@ nexus-09-cyborg-landing-page/
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/nexus-09-cyborg-landing-page.git
+git clone [https://github.com/YOUR-USERNAME/nexus-09-cyborg-landing-page.git](https://github.com/nakshatrameena/nexus-09-cyborg-landing-page.git)
 
 
 Open the project folder and launch:
